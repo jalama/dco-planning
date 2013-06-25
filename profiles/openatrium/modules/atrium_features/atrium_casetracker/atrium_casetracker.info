@@ -60,9 +60,9 @@ features[views][] = "casetracker_projects"
 features[views_api][] = "api:2"
 spaces[types][] = "og"
 
-
-; Information added by drush on 2012-03-23
-version = "6.x-1.2"
+; Information added by drupal.org packaging script on 2012-07-26
+version = "6.x-1.3"
 core = "6.x"
-datestamp = "1332530223"
+project = "atrium_features"
+datestamp = "1343327209"
 
